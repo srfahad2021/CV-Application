@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import GeneralInfoForm from './components/GeneralInfoForm';
-import EducationForm from './components/EducationForm';
-import ExperienceForm from './components/ExperienceForm';
-import CvPreview from './components/CvPreview';
+import GeneralInfoForm from './Components/GeneralInfoForm';
+import EducationForm from './Components/EducationForm';
+import ExperienceForm from './Components/ExperienceForm';
+import CvPreview from './Components/CvPreview';
 
 import './styles/App.css';
 import './styles/Form.css';
